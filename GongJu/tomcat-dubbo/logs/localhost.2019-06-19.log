@@ -1,0 +1,32 @@
+六月 19, 2019 9:05:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+六月 19, 2019 9:05:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+六月 19, 2019 9:05:20 上午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@30fd71bb')
+六月 19, 2019 9:05:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+六月 19, 2019 9:05:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+六月 19, 2019 9:05:23 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+六月 19, 2019 9:05:45 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+六月 19, 2019 9:05:47 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+六月 19, 2019 9:05:49 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+六月 19, 2019 9:05:50 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+六月 19, 2019 9:05:52 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+六月 19, 2019 9:05:53 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+六月 19, 2019 9:05:53 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+六月 19, 2019 9:05:53 上午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
+六月 19, 2019 9:05:53 上午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+六月 19, 2019 9:05:53 上午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
